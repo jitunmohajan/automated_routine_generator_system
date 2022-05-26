@@ -4,13 +4,13 @@ laravel 5.7
 ## step 1:
 
 ```
-git clone https://github.com/joymozumder/automated-routine-generator-system.git
+git clone https://github.com/jitunmohajan/automated_routine_generator_system.git
 ```
 
 ## step 2: 
 
 ```
-cd automated-routine-generator-system/
+cd automated_routine_generator_system
 ```
 
 ## step 3:
